@@ -1,4 +1,5 @@
-pref("extensions.fireput.boolpref", false);
+pref("extensions.firebug.fireput.enableSites", false);
+pref("extensions.firebug.DBG_FIREPUT", false);
 pref("extensions.fireput.intpref", 0);
 pref("extensions.fireput.stringpref", "A string");
 

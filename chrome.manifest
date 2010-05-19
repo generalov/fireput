@@ -1,6 +1,6 @@
-content   fireput                 chrome/content/
+content   fireput                 chrome/content/fireput/
 skin      fireput   classic/1.0   chrome/skin/
 locale    fireput   en-US         chrome/locale/en-US/
 
 
-overlay   chrome://browser/content/browser.xul   chrome://fireput/content/ff-overlay.xul
+overlay chrome://firebug/content/firebugOverlay.xul   chrome://fireput/content/fireput.xul
